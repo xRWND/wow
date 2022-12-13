@@ -1,11 +1,10 @@
-  
- .message-2CShn3 .flexChild-3PzYmX {
+.message-2CShn3 .flexChild-3PzYmX {
     font-size: 0.85rem;
-    background-color: var(--image-utils-back);
+    background-color: rgb(59, 59, 59);
     line-height: 1.125rem;
     vertical-align: middle;
     margin-right: 3px;
-    border: solid 1px var(--image-utils-border);
+    border: solid 1px black;
     padding: 2px 4px;
     margin-left: 0;
     flex: unset !important;
