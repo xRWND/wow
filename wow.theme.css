@@ -11,6 +11,6 @@
     flex: unset !important;
   }
  .message-2CShn3 a.flexChild-3PzYmX {
-    border-color: var(--text-link);
-    background-color: var(--text-link-back);
+    border-color: #00ff15;
+    background-color: black;
   }
